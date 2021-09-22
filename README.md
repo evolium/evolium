@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evolium
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning C#
+- 👀 I’m working as Software Engineer in Test
+- 🌱 I’m currently learning programming.
 
 <!---
 evolium/evolium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
