@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @evolium
-- 👀 I’m working as Software Engineer in Test
+- 👀 I’m working as a Software Engineer in Test.
 - 🌱 I’m currently learning programming.
 
 <!---
