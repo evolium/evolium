@@ -1,1 +1,1 @@
-Senior QA transitioning to AppSec & .NET Development. Building secure, test-driven systems with a focus on automated vulnerability auditing and cloud API integration.
+Senior QA transitioning into DevSecOps. Currently building secure .NET 10 microservices, implementing automated security audits, and integrating real-time threat intelligence into the CI/CD pipeline.
